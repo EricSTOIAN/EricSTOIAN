@@ -10,10 +10,10 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EricSTOIAN&theme=dark&langs_count=10&layout=compact)
 
-<a href="https://github.com/EricSTOIAN/Web3Milestone4">
+<a href="https://github.com/EricSTOIAN">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EricSTOIAN&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-<a href="https://github.com/EricSTOIAN/Web3Milestone4">
+<a href="https://github.com/EricSTOIAN">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EricSTOIAN" />
 </a>
