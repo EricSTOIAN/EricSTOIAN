@@ -13,3 +13,7 @@
 <a href="https://github.com/EricSTOIAN/Web3Milestone4">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EricSTOIAN&layout=compact&langs_count=8&card_width=320" />
 </a>
+
+<a href="https://github.com/EricSTOIAN/Web3Milestone4">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EricSTOIAN&repo=Web3Milestone4" />
+</a>
