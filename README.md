@@ -10,8 +10,7 @@
 
 # Skills
 - C#
-- Javascript/Typescript
-- Python
+- Javascript/Typescript             - Python
 - HTML/CSS
 - Markdown
 - Kotlin
