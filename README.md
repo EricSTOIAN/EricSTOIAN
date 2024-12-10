@@ -9,6 +9,16 @@
 <p>I've never looked into any computer-related activities as a kid, until the age of 14 when I had the chance to join a small coding activity. As the activity flew by, I realized I wanted to know more about the entire field of computer science, which is when I decided on what I wanted to pursue as studies later in life. As difficult as some tasks may be in the computer science field, the satisfaction I feel every time I accomplish what I've set out to do is what I love about it.</p>
 
 # Skills
-
+- C#
+- Javascript/Typescript
+- Python
+- HTML/CSS
+- Markdown
+- Kotlin
+- SQL Server
+- SQLite
+- Powershell
+- Docker
+- Jira
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EricSTOIAN&layout=compact&langs_count=7&card_width=320" />
