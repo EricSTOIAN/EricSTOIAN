@@ -10,6 +10,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EricSTOIAN&theme=dark&langs_count=10&layout=compact)
 
-<a href="https://github.com/EricSTOIAN/github-readme-stats">
+<a href="https://github.com/EricSTOIAN">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EricSTOIAN&repo=github-readme-stats&layout=compact&langs_count=10&card_width=320" />
 </a>
